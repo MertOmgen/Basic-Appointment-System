@@ -1,0 +1,7 @@
+D:\Projelerim\Visual Studio\Örneklerim\Örnek 5\Örnek 5\bin\Debug\Örnek 5.exe.config
+D:\Projelerim\Visual Studio\Örneklerim\Örnek 5\Örnek 5\bin\Debug\Örnek 5.exe
+D:\Projelerim\Visual Studio\Örneklerim\Örnek 5\Örnek 5\bin\Debug\Örnek 5.pdb
+D:\Projelerim\Visual Studio\Örneklerim\Örnek 5\Örnek 5\obj\Debug\Örnek 5.csprojResolveAssemblyReference.cache
+D:\Projelerim\Visual Studio\Örneklerim\Örnek 5\Örnek 5\obj\Debug\Örnek 5.csproj.CoreCompileInputs.cache
+D:\Projelerim\Visual Studio\Örneklerim\Örnek 5\Örnek 5\obj\Debug\Örnek 5.exe
+D:\Projelerim\Visual Studio\Örneklerim\Örnek 5\Örnek 5\obj\Debug\Örnek 5.pdb
