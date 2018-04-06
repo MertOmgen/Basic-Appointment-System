@@ -15,7 +15,7 @@ namespace Örnek_5
             string kullaniciadi, girilenKullaniciadi, mesaj, mesaj1, sifre, girilenSifre/*,secilenBölüm,secilenDoktor*/;
             int counter = default(int), counter1 = default(int), secilenbölümKod, secilendoktorKod;
             bool kontrol = default(bool), kontrol1 = default(bool);
-            //string [] ozelKarakter = new string[] { "-", "^", "&" };
+            
 
 
             try
